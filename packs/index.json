@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "blasted-heath",
+      "file": "blasted-heath.json",
+      "title": "The Blasted Heath",
+      "subtitle": "A one-evening scenario adapted from H. P. Lovecraft’s “The Colour Out of Space” (1927)",
+      "players": "2 to 5 investigators",
+      "length": "One evening, 3 to 4 hours"
+    }
+  ]
+}
